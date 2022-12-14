@@ -1,4 +1,4 @@
-python -m pip install streamlit
-python -m pip install pandas
-python -m pip install matplotlib
-python -m pip install seaborn
+pip install streamlit
+pip install pandas
+pip install matplotlib
+pip install seaborn
