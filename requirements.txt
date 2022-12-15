@@ -1,4 +1,4 @@
-python pip install --upgrade pip
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 python pip install streamlit
 python pip install pandas
 python pip install matplotlib
