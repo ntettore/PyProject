@@ -1,4 +1,6 @@
-pip install streamlit
-pip install pandas
-pip install matplotlib
-pip install seaborn
+name: stats
+dependencies:
+  - streamlit
+  - pandas
+  - matplotlib
+  - seaborn
